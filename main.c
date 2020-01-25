@@ -1,6 +1,3 @@
-// Vince Nguyen
-// Ethan Nguyen
-                  			
 // 1. Pre-processor Directives Section
 // Constant declarations to access port registers using 
 // symbolic names instead of addresses
